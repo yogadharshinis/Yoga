@@ -32,7 +32,7 @@
     <div class="social">
         <a href="#"><i class='bx bxl-linkedin'></i></a>
        
-        <a href="https://github.com/yogadharshinis/Yoga.git"><i class='bx bxl-github'></i></a>
+        <a href="https:https://github.com/yogadharshinis"><i class='bx bxl-github'></i></a>
 
         <a href="https://www.instagram.com/invites/contact/?i=td1e6t78x4bp&utm_content=oeyjr77"><i class='bx bxl-instagram'></i></a>
 
