@@ -14,7 +14,7 @@
 <body>
 <!-- Navbar  Section Start -->
 <header>
-    <a href="#" class="logo">Yogadhashini <span> </span></a>
+    <a href="#" class="logo">Yogadharshini <span> </span></a>
 
     <div class="bx bx-menu" id="menu-icon"></div>
 
@@ -30,9 +30,9 @@
 <!-- Home Section Start -->
 <section class="home" id="home">
     <div class="social">
-        <a href="https://www.linkedin.com/in/vinay-kumar860964"><i class='bx bxl-linkedin'></i></a>
+        <a href="#"><i class='bx bxl-linkedin'></i></a>
        
-        <a href="https://github.com/ADVindiancoder"><i class='bx bxl-github'></i></a>
+        <a href="https://github.com/yogadharshinis/Yoga.git"><i class='bx bxl-github'></i></a>
 
         <a href="https://www.instagram.com/invites/contact/?i=td1e6t78x4bp&utm_content=oeyjr77"><i class='bx bxl-instagram'></i></a>
 
@@ -58,7 +58,7 @@
         <h2>About Me</h2>
         <span>Introduction</span>
     </div>
-    <p>Hello, I'm Yogadhashini, a passionate web developer based in [Your Location]. With a strong foundation in HTML, CSS, and JavaScript, I enjoy creating responsive and user-friendly websites. My journey in web development began with a curiosity for turning ideas into interactive digital experiences.</p>
+    <p>Hello, I'm Yogadharshini, a passionate web developer based in [Your Location]. With a strong foundation in HTML, CSS, and JavaScript, I enjoy creating responsive and user-friendly websites. My journey in web development began with a curiosity for turning ideas into interactive digital experiences.</p>
 
     <div class="about-container">
         <div class="about-img">
